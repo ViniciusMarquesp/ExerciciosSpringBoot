@@ -1,0 +1,522 @@
+!SESSION 2021-07-23 11:12:50.504 -----------------------------------------------
+eclipse.buildId=4.19.0.I20210303-1800
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data D:\Eclipse -product org.eclipse.epp.package.java.product
+
+This is a continuation of log file D:\Eclipse\.metadata\.bak_0.log
+Created Time: 2021-07-23 11:12:56.922
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-23 11:12:56.923
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ciusi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-07-23 11:13:46.957
+!MESSAGE Has main method computation for project 'helloworld'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:48.125
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:48.128
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:52.107
+!MESSAGE Has main method computation for project 'Exercicio01'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:53.932
+!MESSAGE Has main method computation for project 'Exercicio02'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.106
+!MESSAGE Has main method computation for project 'Exercicio01'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.110
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.113
+!MESSAGE Has main method computation for project 'Exercicio02'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.128
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.130
+!MESSAGE Has main method computation for project 'helloworld'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.490
+!MESSAGE Has main method computation for project 'Exercicio01'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.491
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.491
+!MESSAGE Has main method computation for project 'helloworld'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.491
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.492
+!MESSAGE Has main method computation for project 'Exercicio02'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.761
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.761
+!MESSAGE Has main method computation for project 'Exercicio01'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.763
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.764
+!MESSAGE Has main method computation for project 'Exercicio02'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:57.765
+!MESSAGE Has main method computation for project 'helloworld'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:59.549
+!MESSAGE Has main method computation for project 'Exercicio01'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:59.549
+!MESSAGE Has main method computation for project 'helloworld'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:59.550
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:59.550
+!MESSAGE Has main method computation for project 'Exercicio02'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:59.551
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:59.586
+!MESSAGE Has main method computation for project 'Exercicio02'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:59.586
+!MESSAGE Has main method computation for project 'Exercicio01'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:59.589
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:13:59.591
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-23 11:14:28.848
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-23 11:15:53.353
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY org.eclipse.core.resources 4 0 2021-07-23 11:15:53.466
+!MESSAGE Error occurred while reading master table file
+!STACK 0
+java.nio.charset.UnmappableCharacterException: Input length = 1
+	at java.base/java.nio.charset.CoderResult.throwException(CoderResult.java:275)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:352)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:178)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3399)
+	at org.eclipse.core.internal.resources.SaveManager.getBadSequenceNumberErrorMessage(SaveManager.java:1609)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1590)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1263)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1255)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1232)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1143)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2021-07-23 11:15:53.468
+!MESSAGE An internal error occurred during: "Periodic workspace save.".
+!STACK 0
+java.lang.IllegalArgumentException: Cannot set lower sequence number for root (previous: 4, new: 1). Location: D:\SpringBoot\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resourcesTimestamps and tree sequence numbers from file:
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1591)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1263)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1255)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1232)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1143)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-07-23 11:15:54.138
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY org.eclipse.core.resources 4 0 2021-07-23 11:15:57.498
+!MESSAGE Error occurred while reading master table file
+!STACK 0
+java.nio.charset.UnmappableCharacterException: Input length = 1
+	at java.base/java.nio.charset.CoderResult.throwException(CoderResult.java:275)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:352)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:178)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3399)
+	at org.eclipse.core.internal.resources.SaveManager.getBadSequenceNumberErrorMessage(SaveManager.java:1609)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1590)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1263)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1255)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1232)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1143)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2021-07-23 11:15:57.499
+!MESSAGE An internal error occurred during: "Periodic workspace save.".
+!STACK 0
+java.lang.IllegalArgumentException: Cannot set lower sequence number for root (previous: 4, new: 1). Location: D:\SpringBoot\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resourcesTimestamps and tree sequence numbers from file:
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1591)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1263)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1255)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1232)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1143)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-07-23 11:16:01.844
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:16:01.936
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-23 11:16:17.321
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-07-23 11:16:24.811 -----------------------------------------------
+eclipse.buildId=4.19.0.I20210303-1800
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-23 11:16:27.883
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-23 11:16:27.884
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f1d6a13,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7cbf4f8c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-23 11:16:32.879
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ciusi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-07-23 11:16:35.576
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:16:35.577
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:16:42.716
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:16:42.717
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-23 11:17:07.106
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-23 11:17:10.266
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:49.801
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:49.837
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:49.879
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-07-23 11:18:50.552
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:113)
+	at org.eclipse.swt.graphics.GC.<init>(GC.java:167)
+	at org.eclipse.swt.graphics.GC.<init>(GC.java:135)
+	at org.springsource.ide.eclipse.commons.livexp.ui.DescriptionSection.createContents(DescriptionSection.java:99)
+	at org.springsource.ide.eclipse.commons.livexp.ui.GroupSection.createContents(GroupSection.java:99)
+	at org.springsource.ide.eclipse.commons.livexp.ui.GroupSection.createContents(GroupSection.java:99)
+	at org.springframework.ide.eclipse.boot.livexp.ui.DynamicSection.updateContent(DynamicSection.java:88)
+	at org.springframework.ide.eclipse.boot.livexp.ui.DynamicSection.lambda$0(DynamicSection.java:64)
+	at org.springsource.ide.eclipse.commons.livexp.core.UIValueListener$1.uiGotValue(UIValueListener.java:75)
+	at org.springsource.ide.eclipse.commons.livexp.core.UIValueListener$NotifyingJob.runInUIThread(UIValueListener.java:39)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:263)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:283)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:389)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:142)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-07-23 11:18:50.553
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:113)
+	at org.eclipse.swt.graphics.GC.<init>(GC.java:167)
+	at org.eclipse.swt.graphics.GC.<init>(GC.java:135)
+	at org.springsource.ide.eclipse.commons.livexp.ui.DescriptionSection.createContents(DescriptionSection.java:99)
+	at org.springsource.ide.eclipse.commons.livexp.ui.GroupSection.createContents(GroupSection.java:99)
+	at org.springsource.ide.eclipse.commons.livexp.ui.GroupSection.createContents(GroupSection.java:99)
+	at org.springframework.ide.eclipse.boot.livexp.ui.DynamicSection.updateContent(DynamicSection.java:88)
+	at org.springframework.ide.eclipse.boot.livexp.ui.DynamicSection.lambda$0(DynamicSection.java:64)
+	at org.springsource.ide.eclipse.commons.livexp.core.UIValueListener$1.uiGotValue(UIValueListener.java:75)
+	at org.springsource.ide.eclipse.commons.livexp.core.UIValueListener$NotifyingJob.runInUIThread(UIValueListener.java:39)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:263)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:283)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:389)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:142)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY Activator 1 0 2021-07-23 11:18:50.893
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:50.929
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:51.163
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:51.200
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:51.232
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:51.551
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:51.774
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:51.784
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:52.834
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:52.834
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:52.892
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:52.893
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:53.057
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:53.063
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:53.607
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:53.609
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:53.906
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:18:53.907
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:56.553
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:56.553
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@77830bea[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=487)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:56.555
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:56.586
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.460
+!MESSAGE Boot LS startup time from start to initialized: 1899ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.553
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.AifYjVJbisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.555
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.557
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.557
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.557
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.557
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.AifYjVJb => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.563
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.566
+!MESSAGE buffering callback sts4.classpath.AifYjVJb Exercicio02-2307 false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.566
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.571
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.574
+!MESSAGE buffering callback sts4.classpath.AifYjVJb Exercicio01-2307 false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.574
+!MESSAGE executing callback sts4.classpath.AifYjVJb 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 11:18:58.869
+!MESSAGE executing callback sts4.classpath.AifYjVJb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-23 11:19:25.505
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:19:25.508
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:19:26.057
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:19:26.094
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:21:34.755
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:21:34.756
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:21:35.292
+!MESSAGE Has main method computation for project 'Exercicio02-2307'
+
+!ENTRY Activator 1 0 2021-07-23 11:21:35.298
+!MESSAGE Has main method computation for project 'Exercicio01-2307'
