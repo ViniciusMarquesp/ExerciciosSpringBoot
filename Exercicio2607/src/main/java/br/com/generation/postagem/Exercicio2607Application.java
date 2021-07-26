@@ -1,4 +1,4 @@
-package br.com.generation.postagem;
+package br.com.generation.postagem; //asda
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
